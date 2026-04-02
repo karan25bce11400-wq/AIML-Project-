@@ -15,7 +15,7 @@ def calculate_marks(study_hours):
 def calculate_grade(marks):
 
     if marks >= 90:
-        return "A (Excellent)"
+        return "A (Amazing)"
     elif marks >= 75:
         return "B (Good)"
     elif marks >= 60:
